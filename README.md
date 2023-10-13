@@ -31,7 +31,7 @@
 
 ## Technologies Used
 - Language/s - Python
-- Librarie/s - Pandas, NumPy, Matplotlib, Seaborn
+- Libraries - Pandas, NumPy, Matplotlib, Seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
