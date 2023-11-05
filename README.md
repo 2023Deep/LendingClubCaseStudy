@@ -10,9 +10,9 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- We have a loan dataset provide from year 2007 to 2011.
+- Dataset duration 2007 to 2011.
 
-- Aim to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default
+- The objective is to understand the driving factors (or driver variables) behind loan default, i.e. the variables that are strong indicators of default
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
